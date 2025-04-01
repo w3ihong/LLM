@@ -1,7 +1,8 @@
-/model
-
+/base_models
+/checkpoints
 /outputs
 /wandb
 /chatlog
 /unsloth_compiled_cache
 /training_data
+/trained_models
